@@ -1,0 +1,66 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+  margin-bottom: 20px;
+}
+.logoWrapper {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+.logoWrapper :last-child {
+  margin-left: 6px;
+}
+
+.cardWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+.card {
+  display: flex;
+  width: 814px;
+  background-color: #d6dfdf;
+  justify-content: space-between;
+  padding: 14px;
+}
+.quesWrapper {
+  display: flex;
+  /* background-color: #d6dfdf; */
+}
+.left {
+  width: 60%;
+  margin-right: 20px;
+  background-color: #d6dfdf;
+  padding: 20px;
+}
+.right {
+  background-color: #d6dfdf;
+  padding: 34px 20px;
+  width: 42%;
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  margin: 20px 0;
+}
+.comment {
+  background: white;
+  padding: 8px;
+  margin: 6px 0;
+}
+.btn {
+  font-size: medium;
+  background-color: #7f7ff0;
+  color: white;
+  font-weight: 100;
+  padding: 6px;
+  margin-top: 24px;
+  display: block;
+  float: right;
+}
+.btn:hover {
+  background-color: #5d5dae;
+}

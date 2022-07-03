@@ -1,0 +1,28 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+  margin-bottom: 20px;
+}
+.logoWrapper {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+.logoWrapper :last-child {
+  margin-left: 6px;
+}
+
+.cardWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+.card {
+  display: flex;
+  width: 814px;
+  background-color: #d6dfdf;
+  justify-content: space-between;
+  padding: 14px;
+}

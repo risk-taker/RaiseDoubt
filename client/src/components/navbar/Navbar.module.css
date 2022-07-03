@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+}
+.logoWrapper {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+.logoWrapper :last-child {
+  margin-left: 6px;
+}
+.link {
+  text-decoration: none;
+  margin-right: 16px;
+  color: black;
+  font-size: larger;
+  font-weight: bold;
+  cursor: pointer;
+}
+.btn {
+  margin-left: 37px;
+  padding: 8px 16px;
+  background-color: #d3dedc;
+  border-radius: 5px;
+}

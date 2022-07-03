@@ -1,0 +1,28 @@
+.wrapper {
+  display: 814px;
+  max-width: 60%;
+  margin-top: 60px;
+}
+.card {
+  background-color: #d6dfdf;
+  padding: 24px;
+}
+.heading {
+  font-weight: bold;
+  font-size: large;
+  margin-bottom: 6px;
+}
+.comment {
+  width: 621px;
+  padding: 4px;
+  font-size: large;
+  margin-top: 10px;
+}
+.btn {
+  margin-left: 37px;
+  padding: 8px 16px;
+  border: 3px solid #7f7ff0;
+  color: #7f7ff0;
+  border-radius: 5px;
+  font-weight: bold;
+}

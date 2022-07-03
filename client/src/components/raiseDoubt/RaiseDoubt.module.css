@@ -1,0 +1,34 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6rem;
+  position: relative;
+}
+.cancelBtn {
+  width: 32px;
+  float: right;
+  position: relative;
+}
+.card {
+  width: 400px;
+  background-color: #d3dedc;
+  padding: 20px;
+  border-radius: 5px;
+}
+.input {
+  width: 361px;
+  margin-bottom: 12px;
+}
+.title {
+  margin-top: 32px;
+}
+.btn {
+  float: right;
+  background-color: #7f7ff0;
+  padding: 6px 16px;
+  margin-top: 18px;
+}
+.btn:hover {
+  background-color: #5b5bae;
+}

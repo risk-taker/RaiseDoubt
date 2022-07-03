@@ -1,0 +1,52 @@
+.wrapper {
+  display: 814px;
+  max-width: 60%;
+  margin-top: 60px;
+}
+.card {
+  background-color: #d6dfdf;
+  padding: 24px;
+  margin-bottom: 20px;
+}
+.heading {
+  font-weight: bold;
+  font-size: large;
+  margin-bottom: 6px;
+}
+.comment {
+  width: 621px;
+  padding: 4px;
+  font-size: large;
+  margin-top: 10px;
+  max-width: 60%;
+}
+.btn {
+  margin-left: 37px;
+  padding: 8px 16px;
+  border: 3px solid #7f7ff0;
+  color: #7f7ff0;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.resolveBtn {
+  margin-left: 37px;
+  padding: 4px 16px;
+  border: 3px solid #20bd5f;
+  color: #20bd5f;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.resolveWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.answer {
+  margin-top: 6px;
+  font-weight: bold;
+}
+.text {
+  font-weight: 500;
+}
